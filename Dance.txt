@@ -1,3 +1,4 @@
 one step left
 one step right
-jump
+jump up and down
+twirl your hand
